@@ -37,3 +37,4 @@ The goal of the LSTM component is to provide robust and accurate predictions/ana
 ├── notebooks/          # Jupyter notebooks for exploratory data analysis and model prototyping
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
+
